@@ -4,9 +4,3 @@
 /.jj
 /.claude/settings.local.json
 
-
-# Added by cargo
-#
-# already existing elements were commented out
-
-#/target
