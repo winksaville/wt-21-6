@@ -45,7 +45,13 @@ Todo entry moved into this block.
 
 ##### feat: create f1.txt
 
-Create `f1.txt` at the workspace root, holding one line.
+Creates `f1.txt` at the workspace root, holding the one line `f1`.
+
+Finding, from the opening: the opening commit's `zTOC.md` already marks this rung `1 (current)`,
+written by `cycle --commit` before any of this rung's work exists. Wink expected this and judges
+it wrong: a commit's tree should not name as current a rung that nothing has started. AGENTS.md's
+per-rung flow, step 7, states it as intended, "the rung `(done)` and the next `(current)`", so a
+fix changes that rule as well as `vc-x1`.
 
 ##### Create f1 using multi-step closing
 
