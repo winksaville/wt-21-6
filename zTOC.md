@@ -4,7 +4,9 @@ The workspace's index, in [zTOC format](agent-data/notes.md#ztoc-format).
 
 ## Ladder
 
-_None._
+- 0 (done) [Create f1 using multi-step opening](TODO.md#create-f1-using-multi-step-opening)
+- 1 (done) [feat: create f1.txt](TODO.md#feat-create-f1txt)
+- 2 (done) [Create f1 using multi-step closing](TODO.md#create-f1-using-multi-step-closing)
 
 ## The TOC
 
