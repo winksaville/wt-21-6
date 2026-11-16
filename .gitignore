@@ -4,3 +4,6 @@
 /.jj
 /.claude/settings.local.json
 
+/tmp
+/tmp-durable
+/custom.md
